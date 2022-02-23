@@ -7,9 +7,10 @@ Freddy Lecue, Fosca Giannotti, Riccardo Guidotti and Pasquale Minervini
 
 This is: 
   - Part IV: XAI Tools, Coding and Engineering Practices - 40 minutes of Tutorial
+  - https://github.com/flecue/xai-aaai2022
 
 Other parts are as following in:
-  - http://www-sop.inria.fr/members/Freddy.Lecue/presentation/aaai_2022_xai_tutorial.pdf (to be available on Feb.22 2022)
+  - http://www-sop.inria.fr/members/Freddy.Lecue/presentation/aaai_2022_xai_tutorial.pdf (available on Feb.23.2022)
 
 - Part I: Introduction and Motivation - 20 minutes 
 - Part II: Explanation in AI (not only Machine Learning!) - 40 minutes 
