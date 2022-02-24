@@ -17,3 +17,6 @@ Other parts are as following in:
 - Part III: On The Role of Knowledge Graphs in Explainable Machine Learning - 40 minutes
 - Part IV: XAI Tools, Coding and Engineering Practices - 40 minutes
 - Part V: XAI Applications, Lessons Learnt and Research Challenges - 40 minutes
+
+Video available:
+- https://www.youtube.com/watch?v=07hifxAsXjc
