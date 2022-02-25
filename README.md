@@ -1,11 +1,14 @@
 # xai-aaai2022
 
+AAAI 2022 Tutorial (presented on Feb.24 2022) 
+
 AH7: On Explainable AI: From Theory to Motivation, Industrial Applications, XAI Coding & Engineering Practices
-Freddy Lecue, Fosca Giannotti, Riccardo Guidotti and Pasquale Minervini
   - https://xaitutorial2022.github.io/
   - https://aaai.org/Conferences/AAAI-22/aaai22tutorials/
+ 
+Authors: Freddy Lecue, Fosca Giannotti, Riccardo Guidotti and Pasquale Minervini
 
-This is: 
+This github is: 
   - Part IV: XAI Tools, Coding and Engineering Practices - 40 minutes of Tutorial
   - https://github.com/flecue/xai-aaai2022
 
